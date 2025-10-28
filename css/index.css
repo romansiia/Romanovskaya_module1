@@ -1,0 +1,323 @@
+body {
+    margin: 0;
+    background-image: url(../img/back.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment:scroll;
+    height: 6370px;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.container_1 {
+    display: flex;
+    justify-content: center;
+}
+
+.container_2 {
+    display: flex;
+    align-items: center;
+    margin-top: -33%;
+    justify-content: center;
+}
+
+.text_1 {
+    text-align: center;
+    justify-content: center;
+    margin-top: 15%;
+}
+
+.text_1 p {
+    font-size: 32px;
+    font-family: 'Helvetica-Regular' ;
+}
+
+.container_3 {
+    display: flex;
+    margin-top: 10%;
+    margin-left: 2%;
+}
+
+.container_4 {
+    display: flex;
+    margin-top: -15%;
+    justify-content: center;
+}
+
+.container_5 {
+    display: flex;
+    margin-top: -52%;
+    margin-left: 68%;
+}
+
+.heading_1 {
+    display: flex;
+}
+
+.heading_1 h2 {
+    font-size: 40px;
+    font-family: 'Helvetica-Bold';
+    text-align: center;
+    margin-left: 5%;
+    margin-top: -23%;
+}
+
+.heading_2 {
+    display: flex;
+}
+
+.heading_2 h2 {
+    font-size: 40px;
+    font-family: 'Helvetica-Bold';
+    text-align: center;
+    margin-left: 42%;
+    margin-top: -3%;
+}
+
+.heading_3 {
+    display: flex;
+}
+
+.heading_3 h2 {
+    font-size: 40px;
+    font-family: 'Helvetica-Bold';
+    text-align: center;
+    margin-left: 74%;
+    margin-top: -23%;
+}
+
+.text_2 p {
+    font-family: 'Helvetica-Regular';
+    font-size: 20px;
+    margin-left: 5%;
+    margin-top: -17%;
+}
+
+.text_3 p {
+    font-family: 'Helvetica-Regular';
+    font-size: 20px;
+    margin-left: 38%;
+    margin-top: 13%;
+}
+
+.text_4 p {
+    font-family: 'Helvetica-Regular';
+    font-size: 20px;
+    margin-left: 72%;
+    margin-top: -27%;
+}
+
+.container_6 {
+    justify-content: center;
+    margin-top: 30%;
+}
+
+.slogan p {
+    font-family: 'Helvetica-Regular';
+    font-size: 24px;
+    margin-top: -30%;
+    text-align: center;
+}
+
+.container_7 {
+    margin-top: 35%;
+    margin-left: 384px;
+}
+
+.menu p {
+    font-family: 'Helvetica-Bold';
+    font-size: 24px;
+    margin-left: 125px;
+}
+
+.m1 {
+    margin-top: 101px;
+}
+
+.m2 {
+    margin-top: 40px;
+}
+
+.m3 {
+    margin-top: 80px;
+}
+
+.m4 {
+    margin-top: 40px;
+}
+
+.m5 {
+    margin-top: 88px;  
+}
+
+.cards {
+    margin-left: 383px;
+    margin-top: 183px;
+}
+
+.card1 {
+    margin-left: 55px;
+    margin-top: 40px;
+}
+
+.card2 {
+    margin-left: 975px;
+    margin-top: -471px;
+}
+
+.card3 {
+    margin-left: 55px;
+    margin-top: 19px;
+}
+
+.card4 {
+    margin-left: 744px;
+    margin-top: -426px;
+}
+
+.courses h2 {
+    font-family: 'Helvetica-Bold';
+    font-size: 40px;
+}
+
+.courses h3 {
+    font-family: 'Helvetica-Oblique';
+    font-size: 20px;
+}
+
+.courses p {
+    font-family: 'Helvetica-Regular';
+    font-size: 20px;
+}
+
+.c1 {
+    margin-top: -62%;
+    margin-left: 114px;
+}
+
+.c2 {
+    margin-left: 70%;
+    margin-top: -5%;
+}
+.c3 {
+    margin-left: 114px;
+    margin-top: 29%;
+}
+
+.c4 {
+    margin-left: 65%;
+    margin-top: -3%;
+}
+
+.cc1 {
+    margin-left: 114px;
+    margin-top: -30%
+}
+
+.cc2 {
+    margin-left: 70%;
+    margin-top: -1%;
+}
+
+.cc3 {
+    margin-left: 114px;
+    margin-top: 31%;
+}
+
+.cc4 {
+    margin-left: 65%;
+    margin-top: -3%;
+}
+
+.text1 {
+    margin-left: 114px;
+    margin-top: -32%;
+}
+
+.text2 {
+    margin-left: 70%;
+    margin-top: -7%;
+}
+
+.text3 {
+    margin-left: 114px;
+    margin-top: 30%;
+}
+
+.text4 {
+    margin-left: 65%;
+    margin-top: -10%;
+}
+
+.merch {
+    margin-left: 57px;
+    margin-top: 270px;
+}
+
+.phrase {
+    font-family: 'Helvetica-Regular';
+    font-size: 24px;
+    margin-left: 57px;
+}
+
+.photo1 {
+    margin-left: 57px;
+    margin-top: 60px;
+}
+
+.photo2 {
+    margin-left: 517px;
+    margin-top: -280px;
+}
+
+.photo3 {
+    margin-left: 977px;
+    margin-top: -280px;
+}
+
+.photo4 {
+    margin-left: 277px;
+    margin-top: 15px;
+}
+
+.photo5 {
+    margin-left: 737px;
+    margin-top: -280px;
+}
+
+.pattern1 {
+    margin-left: 155px;
+    margin-top: -22%;
+}
+
+.pattern2 {
+    margin-left: 1094px;
+}
+
+
+
+.lala1{
+  font-family: 'Helvetica-Regular';
+  font-size: 22px;
+  margin-top: 150px;
+  margin-left: 57px;
+  color: #ffffff;
+  
+}
+
+.l1{
+  margin-top: 20px;
+}
+
+.lala2{
+  font-family: 'Helvetica-Regular';
+  font-size: 24px;
+  margin-top: -87px;
+  margin-left: 500px;
+  color: #ffffff;
+  
+}
+
+.l2{
+  margin-top: 20px;
+}
